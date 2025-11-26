@@ -1,0 +1,7 @@
+{
+  "name": "Guía de Procedimiento Policial",
+  "description": "An AI-powered voice assistant to guide Colombian National Police officers through standard procedures in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
